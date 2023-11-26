@@ -1,0 +1,6 @@
+# YAML数组(列表)
+OS:
+  - linux
+  - macOS
+  - Windows
+
